@@ -14,7 +14,9 @@ public class Sample {
 		System.out.println(12);
 		System.out.println(100);
 		System.out.println(123);
-		
+		System.out.println(3456);
+		System.out.println(9876);
+
 	}
 
 } 
